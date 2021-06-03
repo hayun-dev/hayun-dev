@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @hayun-dev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### developing Language
 
-<!---
-hayun-dev/hayun-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![Language](https://img.shields.io/badge/language-python-brightgreen)
+- ![Language](https://img.shields.io/badge/language-html-brightgreen)
+- ![Language](https://img.shields.io/badge/language-css-brightgreen)
+- ![Language](https://img.shields.io/badge/language-javascript-brightgreen)
+
+### Github Status
+
+[![hayun-dev's github stats](https://github-readme-stats.vercel.app/api?username=hayun-dev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&count_private=true)](https://github.com/na3724/github-readme-stats)
+
+### Top Langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayun-dev&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/na3724/github-readme-stats)
+
+<!-- ㅎㅎ 
+ㅎㅎㅎㅎ --!>
