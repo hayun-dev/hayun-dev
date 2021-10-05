@@ -6,7 +6,7 @@
 ![hayun-dev's github Status](https://github-readme-stats.vercel.app/api?username=hayun-dev&count_private=true&show_icons=true&theme=tokyonight)
 <a href="https://profile.codersrank.io/user/hayun-dev/">
   
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=gunyu1019&theme=tokyonight&layout=compact)<br/>
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hayun-dev&theme=tokyonight&layout=compact)<br/>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
