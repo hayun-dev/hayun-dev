@@ -8,11 +8,11 @@
   
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hayun-dev&theme=tokyonight&layout=compact)<br/>
   
-## 개발한 봇
+# 개발한 봇
 - 출첵봇: https://hayundev.com/bot/check
   
-### 사용중인 언어
+# 사용중인 언어
   
-<h3 align="left">소셜미디:</h3>
+<h3 align="left">소셜미디어:</h3>
 <p align="left">
 <a href="https://discord.gg/hkdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hkdev" height="30" width="40" /></a>
