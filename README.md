@@ -5,9 +5,8 @@
 
 # 개발한 레포
 - 출첵봇: https://hayundev.com/bot/check
-  
-# 사용중인 언어
-- Python
+- 인증봇:
+- 서버관리봇:
 
 # Github 통계
 ![hayun-dev's github Status](https://github-readme-stats.vercel.app/api?username=hayun-dev&count_private=true&show_icons=true&theme=tokyonight)
