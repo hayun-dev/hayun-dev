@@ -1,6 +1,6 @@
-<h1 align="center">건유1019</h1>
+<h1 align="center">하윤 (hayun-dev)</h1>
 <p align="center">
-  <b>I'm a programmer.</b>
+  <b>Programer.</b>
 </p>
 
 ![hayun-dev's github Status](https://github-readme-stats.vercel.app/api?username=hayun-dev&count_private=true&show_icons=true&theme=tokyonight)
