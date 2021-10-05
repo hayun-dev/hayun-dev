@@ -1,6 +1,6 @@
 <h1 align="center">하윤 (hayun-dev)</h1>
 <p align="center">
-  <b>Programer.</b>
+  <b>여러가지 재미있고, 편리한것들을 개발하고, 현재 개발실력은 초보입니다.</b>
 </p>
 
 ![hayun-dev's github Status](https://github-readme-stats.vercel.app/api?username=hayun-dev&count_private=true&show_icons=true&theme=tokyonight)
