@@ -3,10 +3,11 @@
   <b>여러가지 재미있고, 편리한것들을 개발하고, 현재 개발실력은 초보입니다.</b>
 </p>
 
-# 개발한 봇
+# 개발한 레포
 - 출첵봇: https://hayundev.com/bot/check
   
 # 사용중인 언어
+- Python
 
 # Github 통계
 ![hayun-dev's github Status](https://github-readme-stats.vercel.app/api?username=hayun-dev&count_private=true&show_icons=true&theme=tokyonight)
