@@ -9,7 +9,7 @@
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=hayun-dev&theme=tokyonight&layout=compact)<br/>
   
 ## 개발한 봇
-* 출첵봇: https://hayundev.com/bot/check
+> - 출첵봇: https://hayundev.com/bot/check
   
 ### 사용중인 언어
   
